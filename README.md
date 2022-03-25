@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DataBase Systems, Operating Systems, Design & Analysis of Algorithms, React and React Native**
 
-- 👨‍💻 My Portfolio site is at [farazrazi.unaux.com](farazrazi.unaux.com)
+- 👨‍💻 My Portfolio site is at <a href="http://farazrazi.unaux.com/">farazrazi.unaux.com</a>
 
 - 📫 How to reach me **farazrazi432@gmail.com**
 
