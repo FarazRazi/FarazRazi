@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faraz Uddin Razi</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
+<h4 align="center">Fast Nuces - Islamabad</h3>
+
 
 - 🌱 I’m currently learning **DataBase Systems, Operating Systems, Design & Analysis of Algorithms, React and React Native**
 
