@@ -3,7 +3,7 @@
 <h4 align="center">Fast Nuces - Islamabad</h3>
 
 
-- 🌱 I’m currently learning **DataBase Systems, Operating Systems, Design & Analysis of Algorithms, React and React Native**
+- 🌱 I’m currently learning **Software Development and Analysis, Computer Networks, Automata, Data Visualization and MERN stack **
 
 - 👨‍💻 My Portfolio site is at <a href="http://farazrazi.unaux.com/">farazrazi.unaux.com</a>
 
