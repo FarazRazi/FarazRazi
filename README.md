@@ -3,7 +3,7 @@
 <h4 align="center">Fast Nuces - Islamabad</h3>
 
 
-- 🌱 I’m currently learning **Software Development and Analysis, Computer Networks, Automata, Data Visualization and MERN stack**
+- 🌱 I’m currently learning **Artificial Intelligence, Parallel and Distributive Computing, statistical Modeling, Software Engineeing  and MERN stack**
 
 - 👨‍💻 My Portfolio site is at <a href="http://farazrazi.unaux.com/">farazrazi.unaux.com</a>
 
